@@ -1,8 +1,9 @@
 {
-  "name": "w1",
+  "name": "shipyard-w1",
   "version": "0.0.0",
   "private": true,
   "type": "module",
+  "author": "kingsuper195",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
